@@ -13,7 +13,7 @@ This project applies the artistic style of one image to another using Neural Sty
 * NumPy<br>
 * Pillow<br>
 * Matplotlib<br>
-* Files<br>
+## Files<br>
 * Neural_Style_Transfer.ipynb<br>
 * content.jpg<br>
 * style.jpg<br>
@@ -24,3 +24,5 @@ This project applies the artistic style of one image to another using Neural Sty
 * The stylized image will be saved as output.png.<br>
 ## Result<br>
 The model successfully transfers the artistic style from the style image to the content image using deep learning.<br>
+## Author<br>
+Divyansh Kumar
